@@ -1,0 +1,4 @@
+{"gcp_endpoint": "https://us-central1-ml.googleapis.com",
+"project_id": "boston-price-pred",
+"model_name": "boston_housing_price_pred",
+"model_version": "v1"}
